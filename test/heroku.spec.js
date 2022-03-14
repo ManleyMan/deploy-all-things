@@ -11,9 +11,9 @@ chai.use(chaiHttp);
 const projects = [
   'first_app',
   'change_calculator',
-  'mortgage_calculator',
+  'astroweight_calculator',
   'top_spots',
-  'vstda'
+  
 ];
 
 const checkValidHerokuUrl = (url) => {

@@ -1,7 +1,7 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "first_app": "https://rocky-retreat-62676.herokuapp.com/",
+  "change_calculator": "https://changecalcms.herokuapp.com/",
+  "astroweight_calculator": "https://astroclacms.herokuapp.com/",
+  "top_spots": "https://topspotsms.herokuapp.com/"
+  
 }
